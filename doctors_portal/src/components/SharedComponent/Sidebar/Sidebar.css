@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.sideNav{
+  
+    padding: 10px;
+
+}
+.sideNav ul{
+    margin-top: 150px;
+}
+.sideNav ul li{
+    list-style: none;
+    margin-top: 40px;
+}
+.link{
+    text-decoration: none !important;
+    color: #fff !important;
+    font-size: 18px !important;
+    padding-left: 40px !important;
+}

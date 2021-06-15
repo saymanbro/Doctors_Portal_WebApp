@@ -1,0 +1,18 @@
+
+.common_btn{
+  background:linear-gradient(180deg,#1cc7c1,#db3d3d );
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 5px;
+}
+.common_color{
+  color: #1cc7c1;
+}
+.gradient_background{
+  background: linear-gradient(40deg, #0fcfe9,#18d2b1);
+}
+.navbar-toggler{
+  background:cyan
+}
